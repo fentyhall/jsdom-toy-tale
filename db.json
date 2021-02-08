@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
@@ -49,10 +49,16 @@
       "likes": -2
     },
     {
-      "name": {
-        "isTrusted": true
-      },
+      "name": "Shibao",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tWzPju6nL._AC_SX355_.jpg",
+      "likes": 1,
       "id": 9
+    },
+    {
+      "name": "Grogu",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/zL-sYU0y9suacvryjmISsuJ2Gz8/0x139:1200x1200/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2020/08/25/624/n/24155406/0a613e015f45190cae2249.97502183_/i/baby-yoda-build-a-bear.jpg",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
